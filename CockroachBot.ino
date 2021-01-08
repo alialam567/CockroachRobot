@@ -1,6 +1,6 @@
  /*
  * Program to delay an action based on dual light sensors
- * Name: Alex & Ali
+ * Name: Ali & Alex
  * Date: Oct 16, 2017
  * Version: 6.74
  * Left LED (left side of robot) and Right LED (right side)
@@ -15,10 +15,6 @@
  * D15 - left LED
  * D16 - right LED
  * 
- * "Blink is not declared, I wanna kill myself." - Evan Kilburn 2017 :^) 
- *  Ɛ> Ɛ> Ɛ> Ɛ> Ɛ>
- *  ( ͡° ͜ʖ ͡°)
- *  ༼ つ ◕_◕ ༽つ
  *  
  * 
  */
